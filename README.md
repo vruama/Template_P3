@@ -4,13 +4,13 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Nome do Projeto: Promover Saúde
 
-## Nome do Grupo
+## Nome do Grupo: 3 </a>
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/vanessa-ruama-b616a8138">Vanessa Ruama</a>, <a href="">Renato Rocha</a>, <a href="">Matheus Francisco</a>, <a href="">Alberto Roko</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor</a>, <a href="">Aimar</a>, <a href="">Francisco</a>, <a href="">Me. Yoda</a>, <a href="">Dr. Gero</a>
 
 ## Descrição
 
@@ -20,11 +20,11 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+O Promover Saúde é um aplicativo que vai trazer para o usuário uma maneira de fazer a gestão de sua saúde de uma maneira centralizada.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+O aplicativo facilitará para que você lembre de seus exames, além de ter a opção para fazer upload dos seus resultados para ficarem guardados em um só lugar.
 <br><br>
-May the force be with you!
+Nosso lema é: Lembrar do mais importante, VOCÊ!!
 <br><br>
 
 ## 🛠 Estrutura de pastas
